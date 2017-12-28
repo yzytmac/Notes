@@ -183,8 +183,6 @@
    * [《Java编程思想》第一章读书笔记](https://github.com/yzytmac/Notes/blob/master/Part5/ReadingNotes/《Java编程思想》第一章读书笔记.md)
    * [《Java编程思想》第二章读书笔记](https://github.com/yzytmac/Notes/blob/master/Part5/ReadingNotes/《Java编程思想》第二章读书笔记.md)
 
-* [Project(项目)](https://github.com/yzytmac/Notes/tree/master/Part5/Project)
-   * [项目难点](https://github.com/yzytmac/Notes/blob/master/Part5/Project/项目.md)  
 
 ---
 
