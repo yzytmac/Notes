@@ -184,42 +184,11 @@
    * [《Java编程思想》第二章读书笔记](https://github.com/yzytmac/Notes/blob/master/Part5/ReadingNotes/《Java编程思想》第二章读书笔记.md)
 
 * [Project(项目)](https://github.com/yzytmac/Notes/tree/master/Part5/Project)
-   * [项目难点](https://github.com/yzytmac/Notes/blob/master/Part5/Project/项目.md)
-
-## 第六部分
-
-* [InterviewExperience(面试经验)](https://github.com/yzytmac/Notes/tree/master/Part6/InterviewExperience)
-    * [Alibaba](https://github.com/yzytmac/Notes/blob/master/Part6/InterviewExperience/Alibaba.md)
-    * [美团](https://github.com/yzytmac/Notes/blob/master/Part6/InterviewExperience/美团.md)
-    * [豌豆荚](https://github.com/yzytmac/Notes/blob/master/Part6/InterviewExperience/豌豆荚.md)
-    * [蜻蜓FM](https://github.com/yzytmac/Notes/blob/master/Part6/InterviewExperience/蜻蜓FM.md)
-    * [新浪微博](https://github.com/yzytmac/Notes/blob/master/Part6/InterviewExperience/新浪微博.md)
-    * [网易杭研](https://github.com/yzytmac/Notes/blob/master/Part6/InterviewExperience/网易杭研.md)
-
----
-
-* [Resume(简历)](https://zhuanlan.zhihu.com/p/20672941)
-
+   * [项目难点](https://github.com/yzytmac/Notes/blob/master/Part5/Project/项目.md)  
 
 ---
 
 有任何问题欢迎联系：
-geniusvjr@gmail.com
-
-欢迎关注我的知乎账号：
-
-[Francis的知乎](https://www.zhihu.com/people/FrancisTao)
-
-微信公众号：
-
-幼稚园老大哥
-
-微博账号：
-
-[Francis的微博](http://weibo.com/3627982543/profile?rightmod=1&wvr=6&mod=personinfo)
-
-已同步到 [http://www.diycode.cc/wiki/androidinterview](http://www.diycode.cc/wiki/androidinterview) 
-
-拒绝任何形式的商业用途。
+yzytmac@163.com
 
 
